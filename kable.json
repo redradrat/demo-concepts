@@ -1,6 +1,6 @@
 {
-  version: "1",
-  concepts: [
+  "version": "1",
+  "concepts": [
     "apps/grafana"
   ],
 }
