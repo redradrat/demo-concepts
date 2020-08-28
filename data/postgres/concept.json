@@ -1,0 +1,8 @@
+{
+  "name": "postges",
+  "version": "v1.0.0",
+  "inputs": {
+    "dbname": "string",
+    "dbversion": "string"
+  }
+}
