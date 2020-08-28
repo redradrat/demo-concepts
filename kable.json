@@ -1,6 +1,6 @@
 {
   version: "1",
   concepts: [
-    "data/postgres"
+    "apps/grafana"
   ],
 }
