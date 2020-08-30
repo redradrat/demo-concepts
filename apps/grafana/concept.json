@@ -5,6 +5,8 @@
     "version": "1.0.0",
   }
   "inputs": {
-    "instanceName": "string",
+    "mandatory": {
+       "instanceName": "string",   
+    }
   }
 }
