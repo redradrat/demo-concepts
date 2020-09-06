@@ -1,5 +1,6 @@
 {
   "apiVersion": 1,
+  "type": "jsonnet",
   "metadata": {
     "name": "grafana",
     "maintainer": {
