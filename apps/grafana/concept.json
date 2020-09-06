@@ -8,7 +8,9 @@
   },
   "inputs": {
     "mandatory": {
-       "instanceName": "string"
+       "instanceName": {
+           "type": "string"
+       }
     }
   }
 }
