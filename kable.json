@@ -1,6 +1,7 @@
 {
   "version": 1,
   "concepts": [
-    "apps/grafana"
+    "apps/grafana",
+    "network/ingress/nginx"
   ]
 }
