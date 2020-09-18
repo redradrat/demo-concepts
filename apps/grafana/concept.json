@@ -11,6 +11,9 @@
     "mandatory": {
        "instanceName": {
            "type": "string"
+       },
+       "test": {
+          "type": "string"
        }
     }
   }
