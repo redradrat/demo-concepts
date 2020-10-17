@@ -2,6 +2,6 @@
   "version": 1,
   "concepts": [
     "apps/grafana",
-    "network/ingress/nginx"
+    "apps/sentry"
   ]
 }

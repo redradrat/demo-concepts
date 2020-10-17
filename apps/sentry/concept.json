@@ -1,0 +1,25 @@
+{
+	"apiVersion": 1,
+	"type": "jsonnet",
+	"metadata": {
+		"name": "sentry",
+		"maintainer": {
+			"name": "Ralph Kühnert",
+			"email": "kuehnert.ralph@gmail.com"
+		}
+	},
+	"inputs": {
+		"mandatory": {
+			"instanceName": {
+				"type": "string"
+			},
+			"nameSelection": {
+				"type": "select",
+				"options": [
+					"Option 1",
+					"Option 2"
+				]
+			}
+		}
+	}
+}
